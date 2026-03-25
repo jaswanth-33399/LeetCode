@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/jaswanth-33399/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/jaswanth-33399/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/jaswanth-33399/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## String
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/jaswanth-33399/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/jaswanth-33399/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/jaswanth-33399/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Math
 |  |
 | ------- |
@@ -53,4 +55,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/jaswanth-33399/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/jaswanth-33399/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
