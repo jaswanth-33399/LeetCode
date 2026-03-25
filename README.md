@@ -56,4 +56,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/jaswanth-33399/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/jaswanth-33399/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+## Array
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/jaswanth-33399/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
+## Matrix
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/jaswanth-33399/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/jaswanth-33399/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/jaswanth-33399/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
