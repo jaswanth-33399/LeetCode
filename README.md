@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/jaswanth-33399/LeetCode/tree/master/0509-fibonacci-number) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jaswanth-33399/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,10 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jaswanth-33399/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/jaswanth-33399/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Matrix
 |  |
 | ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jaswanth-33399/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/jaswanth-33399/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Enumeration
 |  |
@@ -72,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/jaswanth-33399/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
+## Simulation
+|  |
+| ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jaswanth-33399/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 <!---LeetCode Topics End-->
