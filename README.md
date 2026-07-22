@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jaswanth-33399/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0451-sort-characters-by-frequency](https://github.com/jaswanth-33399/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0977-squares-of-a-sorted-array](https://github.com/jaswanth-33399/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jaswanth-33399/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/jaswanth-33399/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0977-squares-of-a-sorted-array](https://github.com/jaswanth-33399/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jaswanth-33399/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/jaswanth-33399/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Matrix
@@ -102,4 +104,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jaswanth-33399/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/jaswanth-33399/LeetCode/tree/master/0125-valid-palindrome) |
+| [0977-squares-of-a-sorted-array](https://github.com/jaswanth-33399/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
