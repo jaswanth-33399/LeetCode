@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/jaswanth-33399/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/jaswanth-33399/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/jaswanth-33399/LeetCode/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/jaswanth-33399/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/jaswanth-33399/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jaswanth-33399/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/jaswanth-33399/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
