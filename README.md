@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/jaswanth-33399/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0451-sort-characters-by-frequency](https://github.com/jaswanth-33399/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/jaswanth-33399/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/jaswanth-33399/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jaswanth-33399/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/jaswanth-33399/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -98,5 +100,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/jaswanth-33399/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/jaswanth-33399/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
