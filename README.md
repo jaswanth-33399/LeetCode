@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/jaswanth-33399/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jaswanth-33399/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/jaswanth-33399/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Matrix
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/jaswanth-33399/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [3546-equal-sum-grid-partition-i](https://github.com/jaswanth-33399/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Simulation
 |  |
