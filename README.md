@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/jaswanth-33399/LeetCode/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/jaswanth-33399/LeetCode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/jaswanth-33399/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/jaswanth-33399/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jaswanth-33399/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/jaswanth-33399/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Matrix
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jaswanth-33399/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/jaswanth-33399/LeetCode/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/jaswanth-33399/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [3546-equal-sum-grid-partition-i](https://github.com/jaswanth-33399/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Simulation
 |  |
