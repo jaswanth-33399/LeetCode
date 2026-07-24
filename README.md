@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jaswanth-33399/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/jaswanth-33399/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/jaswanth-33399/LeetCode/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/jaswanth-33399/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/jaswanth-33399/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/jaswanth-33399/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/jaswanth-33399/LeetCode/tree/master/0561-array-partition) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/jaswanth-33399/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0561-array-partition](https://github.com/jaswanth-33399/LeetCode/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
