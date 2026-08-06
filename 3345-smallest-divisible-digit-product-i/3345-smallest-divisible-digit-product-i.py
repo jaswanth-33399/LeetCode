@@ -7,10 +7,8 @@ class Solution:
             n//=10
         return prod
     def smallestNumber(self, n: int, t: int) -> int:
-            if ((self.digcount(n)) % t == 0):
-                return n
-            else :
-                for i in range(n,10**18):
-                    if (self.digcount(i)%t ==0 ):
-                        return i
+            
+            for i in range(n,10**18):
+                if (self.digcount(i)%t ==0 ):
+                    return i
             return -1
